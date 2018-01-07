@@ -29,7 +29,7 @@ var keys = {
  sound_22: ['p', 'P'],
  sound_23: ['[', '{'],
  sound_24: [']', '}'],
- sound_25: ['\', '|'],
+ sound_25: ['\'], // |
 };
 
 // load sound pre-load
